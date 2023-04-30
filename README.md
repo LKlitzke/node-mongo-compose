@@ -23,11 +23,12 @@ Necessário instalação de pacotes e containers citados.
 ```
 docker-compose up
 ```
-- Em casos de erros de arquivos:
+Em casos de erros de arquivos:
 ```
 npm init -y
 npm i --save express@4.15.3 mongoose@4.11.1 node-restful@0.2.6 body-parser@1.17.2 cors@2.8.3
 ```
+Estando a execução do compose correta, o backend estará disponível no localhost:3000, e o frontend no localhost:80 (padrão).
 
 ## :memo: Licença
 
