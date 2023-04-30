@@ -20,7 +20,9 @@ Foram utilizados containers do NodeJS (v8.1), Nginx (v1.13) e MongoDB (v3.4).
 
 ## ✅ Como testar
 Necessário instalação de pacotes e containers citados.
-- docker-compose up
+```
+docker-compose up
+```
 - Em casos de erros de arquivos:
 ```
 npm init -y
